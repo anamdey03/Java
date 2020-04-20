@@ -1,1 +1,1 @@
-# Java Practice Codes
+# Java Practice Codes for Beginners
