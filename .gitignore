@@ -8,3 +8,9 @@
 *.jar
 *.war
 *.zip
+
+#Class files
+*.class
+
+#Xml files
+*.xml
